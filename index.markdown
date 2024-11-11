@@ -4,3 +4,4 @@
 
 layout: home
 ---
+Come join us for Hackley’s hackathon Hack², a collaboration between Hackley’s Girls Who Code and Computer Science clubs!
