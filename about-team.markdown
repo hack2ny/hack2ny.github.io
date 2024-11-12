@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: About the Team
 permalink: /about-team/
 ---
