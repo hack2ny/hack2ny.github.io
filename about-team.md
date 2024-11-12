@@ -41,7 +41,11 @@ gallery7:
 
 [![styled-image](/assets/images/phoebe_profile.jpg "Phoebe Dungca, '25"){: .align-center style="width: 50%;"}](/assets/images/phoebe_profile.jpg "Phoebe Dungca, '25")
 Phoebe Dungca, '25 
-{: style="text-align: center; font-size:1.75em; color: #f78c6c;"}
+{: style="text-align: center; font-size:1.0em; color: #ffffff;"}
+
+[![styled-image](/assets/images/rafa_profile.jpg "Rafael Castro, '25"){: .align-center style="width: 50%;"}](/assets/images/rafa_profile.jpg "Rafael Castro, '25")
+Rafael Castro, '25 
+{: style="text-align: center; font-size:1.0em; color: #ffffff;"}
 
 
 {% include gallery id="gallery1" caption="Phoebe Dungca, '25" %}
