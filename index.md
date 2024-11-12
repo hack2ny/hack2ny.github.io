@@ -12,4 +12,4 @@ permalink: /
 
 ##### Sign-up button redirects you to the sign-up google form
 
-[Sign-up](#https://docs.google.com/forms/d/e/1FAIpQLSdyg5DSsI3jRFtsKTOrf9oOeZiQgirR172YxGWbL9tA4MWcDQ/viewform?usp=sf_link){: .btn .btn--success}
+[Sign-up](https://docs.google.com/forms/d/e/1FAIpQLSdyg5DSsI3jRFtsKTOrf9oOeZiQgirR172YxGWbL9tA4MWcDQ/viewform?usp=sf_link){: .btn .btn--success}
