@@ -35,6 +35,16 @@ plugins:
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 site.locale: "en-US"
 
+atom_feed:
+  hide: true
+
+footer:
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/hackley.school"
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
