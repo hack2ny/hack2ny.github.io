@@ -23,7 +23,7 @@ email: hacksquared.ny@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hack² is a hackathon that will take place on Saturday January 11, 2025 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hacksquared.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb # update with twitter username
 github_username: hack2ny 
 
