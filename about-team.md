@@ -39,7 +39,7 @@ gallery7:
     title: "Gabriel Fossner, '27"
 ---
 
-[![styled-image](/assets/images/phoebe_profile.jpg "Phoebe Dungca, '25"){: .align-center style="width: 100%;"}](/assets/images/phoebe_profile.jpg "Phoebe Dungca, '25")
+[![styled-image](/assets/images/phoebe_profile.jpg "Phoebe Dungca, '25"){: .align-center style="width: 50%;"}](/assets/images/phoebe_profile.jpg "Phoebe Dungca, '25")
 **Phoebe Dungca, '25**
 {: .align-caption}
 
