@@ -41,7 +41,7 @@ gallery7:
 
 [![styled-image](/assets/images/phoebe_profile.jpg "Phoebe Dungca, '25"){: .align-center style="width: 50%;"}](/assets/images/phoebe_profile.jpg "Phoebe Dungca, '25")
 Phoebe Dungca, '25 
-{: .align-center}
+{: style="text-align: center; font-size:1.75em; color: #f78c6c;"}
 
 
 {% include gallery id="gallery1" caption="Phoebe Dungca, '25" %}
