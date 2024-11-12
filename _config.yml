@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hack2 Team Site
+title: Hack² Team Site
 email: hacksquared.ny@gmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
   Hack² is a hackathon that will take place on Saturday January 11, 2025 
