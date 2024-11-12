@@ -2,9 +2,9 @@ main:
   - title: "Home"
     url: /
   - title: "About Hack2"
-    url: /about-hack2.markdown
+    url: /about-hack2
   - title: "About the team"
-    url: /about-team.markdown
+    url: /about-team
   - title: "FAQ"
-    url: /faq.markdown
+    url: /faq
 

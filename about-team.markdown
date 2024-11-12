@@ -1,18 +1,15 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About the Team
+permalink: /about-team/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+|Team Members|
+|--|
+|Phoebe Dungca, '25|
+|Rafael Castro, '25|
+|Meredith Lee, '25|
+|Cole Byrne, '25|
+|William Dupont, '25|
+|Lily Adams, '25|
+|Gabriel Fossner, '27|
