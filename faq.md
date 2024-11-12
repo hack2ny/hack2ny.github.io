@@ -4,8 +4,6 @@ title: FAQ
 permalink: /faq/
 ---
 
-# FAQ
-
 ## What is a hackathon? 
 
 A hackathon is an event where people of different expertise and programming levels come together to create a programming project based on a certain theme.
@@ -20,7 +18,7 @@ It is free to attend. Lunch, snacks and beverages will be provided.
 
 ## What if I have never attended a hackathon before?
 
-That is totally fine! Hack^2 is open to all high schoolers, regardless of programming experience and you can use whatever programming language and platform you are most comfortable with. There will also be workshops that can teach you certain skills that can be helpful for your project. Hackathons are a great place to meet new people and learn how to code and solve problems together. 
+That is totally fine! Hack² is open to all high schoolers, regardless of programming experience and you can use whatever programming language and platform you are most comfortable with. There will also be workshops that can teach you certain skills that can be helpful for your project. Hackathons are a great place to meet new people and learn how to code and solve problems together. 
 
 ## Will transportation be provided?
 

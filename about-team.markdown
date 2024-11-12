@@ -1,10 +1,9 @@
 ---
 layout: single
-title: About the Team
+title: Team Members
 permalink: /about-team/
 ---
 
-|Team Members|
 |--|
 |Phoebe Dungca, '25|
 |Rafael Castro, '25|
