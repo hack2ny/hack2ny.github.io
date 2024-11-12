@@ -39,15 +39,14 @@ gallery7:
     title: "Gabriel Fossner, '27"
 ---
 
+[![styled-image](/assets/images/phoebe_profile.jpg "Phoebe Dungca, '25"){: .align-center style="width: 100%;"}](/assets/images/phoebe_profile.jpg "Phoebe Dungca, '25")
+**Phoebe Dungca, '25**
+{: .align-caption}
 
-
-
-
-|--|
-|{% include gallery id="gallery1" caption="Phoebe Dungca, '25" %}|
-|{% include gallery id="gallery2" caption="Rafael Castro, '25" %}|
-|{% include gallery id="gallery3" caption="Meredith Lee, '25" %}|
-|{% include gallery id="gallery4" caption="Cole Byrne, '25" %}|
-|{% include gallery id="gallery5" caption="William Dupont, '25" %}|
-|{% include gallery id="gallery6" caption="Lily Adams, '25" %}|
-|{% include gallery id="gallery7" caption="Gabriel Fossner, '27" %}|
+{% include gallery id="gallery1" caption="Phoebe Dungca, '25" %}
+{% include gallery id="gallery2" caption="Rafael Castro, '25" %}
+{% include gallery id="gallery3" caption="Meredith Lee, '25" %}
+{% include gallery id="gallery4" caption="Cole Byrne, '25" %}
+{% include gallery id="gallery5" caption="William Dupont, '25" %}
+{% include gallery id="gallery6" caption="Lily Adams, '25" %}
+{% include gallery id="gallery7" caption="Gabriel Fossner, '27" %}
