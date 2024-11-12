@@ -1,9 +1,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "About Hack2"
-    url: /about-hack2
-  - title: "About the team"
+  - title: "Team Members"
     url: /about-team
   - title: "FAQ"
     url: /faq
