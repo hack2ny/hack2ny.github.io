@@ -32,3 +32,27 @@ Lily Adams, '25
 Gabriel Fossner, '27 
 {: style="text-align: center; font-size:1.0em; color: #ffffff;"}
 
+<figure class="third">
+  <a href="/assets/images/phoebe_profile.jpg">
+  <img src="/assets/images/phoebe_profile.jpg">Phoebe Dungca, '25</a>
+
+  <a href="/assets/images/phoebe_profile.jpg">
+  <img src="/assets/images/phoebe_profile.jpg"></a>
+
+  <a href="/assets/images/phoebe_profile.jpg">
+  <img src="/assets/images/phoebe_profile.jpg"></a>
+
+  <a href="/assets/images/phoebe_profile.jpg">
+  <img src="/assets/images/phoebe_profile.jpg"></a>
+
+  <a href="/assets/images/phoebe_profile.jpg">
+  <img src="/assets/images/phoebe_profile.jpg"></a>
+
+  <a href="/assets/images/phoebe_profile.jpg">
+  <img src="/assets/images/phoebe_profile.jpg"></a>
+
+  <a href="/assets/images/phoebe_profile.jpg">
+  <img src="/assets/images/phoebe_profile.jpg"></a>
+
+  <figcaption>Gallery with a three image per row grid.</figcaption>
+</figure>
