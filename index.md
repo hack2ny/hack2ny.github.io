@@ -1,9 +1,12 @@
 ---
 layout: single
-title: Hack²
+title: 
 permalink: /
 ---
-![my_img](/assets/images/hack2_logo.png "Hack² Logo")
+![styled-image](/assets/images/hack2_logo.png "Hack² Logo"){: .align-center style="width: 80%;"}
+*Hack*{: style="color: red"}ley's *Hack*{: style="color: red"}athon
+{: style="text-align: center; font-size:1.75em; color: #ffffff;"} 
+
 ### Saturday January 11, 2025
 
 ### Location: CCAT @ The Hackley School (293 Benedict Ave, Tarrytown, NY 10591)
