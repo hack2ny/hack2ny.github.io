@@ -3,7 +3,7 @@ layout: single
 title: 
 permalink: /
 ---
-![styled-image](/assets/images/hack2_logo.png "Hack² Logo"){: .align-center style="width: 80%;"}
+![styled-image](/assets/images/hack2_logo.png "Hack² Logo"){: .align-center style="width: 100%;"}
 *Hack*{: style="color: red"}ley's *Hack*{: style="color: red"}athon
 {: style="text-align: center; font-size:1.75em; color: #ffffff;"} 
 
