@@ -36,6 +36,7 @@ Gabriel Fossner, '27
   <a href="/assets/images/phoebe_profile.jpg">
   <img src="/assets/images/phoebe_profile.jpg"></a>
   Phoebe Dungca, '25
+  {: style="text-align: center; font-size:1.0em; color: #ffffff;"}
 
   <a href="/assets/images/phoebe_profile.jpg">
   <img src="/assets/images/phoebe_profile.jpg"></a>
