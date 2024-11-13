@@ -3,18 +3,17 @@ layout: single
 title: 
 permalink: /
 ---
-![styled-image](/assets/images/hack2_logo.png "Hack² Logo"){: .align-center style="width: 100%;"}
+![styled-image](/assets/images/hack2_logo.png "Hack² Logo"){: .align-center style="width: 80%;"}
 *Hack*{: style="color: red"}ley's *Hack*{: style="color: red"}athon
 {: style="text-align: center; font-size:1.75em; color: #ffffff;"} 
 
 ### Saturday January 11, 2025
+**9:00 am - 5:15 pm**
 
-### Location: CCAT @ The Hackley School (293 Benedict Ave, Tarrytown, NY 10591)
+**Location: CCAT @ The Hackley School (293 Benedict Ave, Tarrytown, NY 10591)**
 
-### 9:00 am - 5:15 pm
+**Come join us for Hackley’s hackathon Hack², a collaboration between Hackley’s Girls Who Code and Computer Science clubs!**
 
-#### Come join us for Hackley’s hackathon Hack², a collaboration between Hackley’s Girls Who Code and Computer Science clubs!
-<br>
 [Sign-up](https://docs.google.com/forms/d/e/1FAIpQLSdyg5DSsI3jRFtsKTOrf9oOeZiQgirR172YxGWbL9tA4MWcDQ/viewform?usp=sf_link){: .btn .btn--success}
 
 **About the Event**
