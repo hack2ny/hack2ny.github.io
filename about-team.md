@@ -32,9 +32,10 @@ Lily Adams, '25
 Gabriel Fossner, '27 
 {: style="text-align: center; font-size:1.0em; color: #ffffff;"}
 
-<figure class="third">
+<figure class="half">
   <a href="/assets/images/phoebe_profile.jpg">
-  <img src="/assets/images/phoebe_profile.jpg">Phoebe Dungca, '25</a>
+  <img src="/assets/images/phoebe_profile.jpg"></a>
+  Phoebe Dungca, '25
 
   <a href="/assets/images/phoebe_profile.jpg">
   <img src="/assets/images/phoebe_profile.jpg"></a>
