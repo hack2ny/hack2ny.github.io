@@ -1,6 +1,4 @@
 main:
-  - title: "Home"
-    url: /
   - title: "Team Members"
     url: /about-team
   - title: "FAQ"
