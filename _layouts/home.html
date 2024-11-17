@@ -4,13 +4,16 @@ layout: archive
 
 {{ content }}
 
-<style>
-header {
-  background-color: #008080;
-}
-</style>
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
+<style>
+  h3 {
+    background-color: #008080;
+  }
+  .page-faq {
+    font-size: 3em; /* Adjust the size as needed */
+  }
+  </style>
 {% if paginator %}
   {% assign posts = paginator.posts %}
 {% else %}
