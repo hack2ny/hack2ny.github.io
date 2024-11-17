@@ -26,9 +26,39 @@ layout: archive
   .faq-section {
     font-size: 2em; /* Increase font size for the FAQ section */
   }
+  .team-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 columns for the first row */
+    gap: 10px; /* Space between images */
+    margin-bottom: 20px; /* Space below the image rows */
+  }
+  .team-container .team-member {
+    text-align: center; /* Center align the text within each team member */
+  }
+  .team-container .team-member img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  .team-name {
+    font-size: 1em; /* Font size for team member names */
+    color: #ffffff; /* Text color for team member names */
+    margin-top: 5px; /* Space above the names */
+  }
+  .team-container.centered-row {
+    grid-template-columns: repeat(3, 1fr); /* 3 columns for the second row */
+    justify-content: center; /* Center the second row */
+  }
+  
 
   /* Media Queries for Mobile Devices */
   @media (max-width: 600px) {
+    .team-container {
+      grid-template-columns: repeat(2, 1fr); /* 2 columns on smaller screens */
+    }
+    .team-container.centered-row {
+      grid-template-columns: repeat(2, 1fr); /* 2 columns on smaller screens */
+    }
     body {
       font-size: 1em; /* Adjust base font size for smaller screens */
     }
