@@ -4,30 +4,30 @@ layout: archive
 
 {{ content }}
 
+<style>
+  body {
+    font-size: 1.2em; /* Base font size for the entire page */
+  }
+  .text-box {
+    border: 2px solid #ccc; /* Border for the text box */
+    padding: 20px; /* Padding inside the text box */
+    margin: 0px; /* Margin around the text box */
+    font-size: 1.2em; /* Increase font size for the text box */
+    width: 150%;
+    background-color: #0000; /* Background color for the text box */
+  }
+  .faq-section {
+    font-size: 2em; /* Increase font size for the FAQ section */
+  }
+  .faq-section h2, .faq-section h3, .faq-section h4, .faq-section h5, .faq-section h6 {
+    font-size: inherit; /* Keep headings at their default size */
+  }
+  
+</style>
+
+
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
-<style>
-   .page-faq {
-    font-size: 5em; /* Adjust the size as needed */
-  }
-  .main-nav {
-    background-color: #008080; /* Replace with your desired background color */
-    color: #fff; /* Replace with your desired text color */
-    padding: 10px;
-  }
-  .main-nav ul {
-    list-style-type: none;
-    padding: 0;
-  }
-  .main-nav li {
-    display: inline;
-    margin-right: 15px;
-  }
-  .main-nav a {
-    color: #fff; /* Replace with your desired link color */
-    text-decoration: none;
-  }
-</style>
 {% if paginator %}
   {% assign posts = paginator.posts %}
 {% else %}
