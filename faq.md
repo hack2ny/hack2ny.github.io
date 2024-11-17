@@ -3,7 +3,7 @@ layout: single
 title: FAQ
 permalink: /faq/
 ---
-<div class="faq-section">
+
 ## What is a hackathon? 
 
 A hackathon is an event where people of different expertise and programming levels come together to create a programming project based on a certain theme.
@@ -23,4 +23,4 @@ That is totally fine! Hack² is open to all high schoolers, regardless of progra
 ## Will transportation be provided?
 
 No, participants are responsible for getting to and from Hackley School.
-<div class="faq-section">
+
