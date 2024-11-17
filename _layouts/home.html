@@ -7,13 +7,27 @@ layout: archive
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 <style>
-  h3 {
-    background-color: #008080;
+   .page-faq {
+    font-size: 5em; /* Adjust the size as needed */
   }
-  .page-faq {
-    font-size: 3em; /* Adjust the size as needed */
+  .main-nav {
+    background-color: #008080; /* Replace with your desired background color */
+    color: #fff; /* Replace with your desired text color */
+    padding: 10px;
   }
-  </style>
+  .main-nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  .main-nav li {
+    display: inline;
+    margin-right: 15px;
+  }
+  .main-nav a {
+    color: #fff; /* Replace with your desired link color */
+    text-decoration: none;
+  }
+</style>
 {% if paginator %}
   {% assign posts = paginator.posts %}
 {% else %}
