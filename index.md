@@ -10,9 +10,11 @@ permalink: /
 ### <span style="font-size: 1.5em; text-align: center;">9:00 am - 5:15 pm
 **<span style="font-size: 1.5em; text-align: center;">Saturday January 11, 2025</span>**
 
-**<span style="font-size: 1.5em; text-align: center;">CCAT @ The Hackley School (293 Benedict Ave, Tarrytown, NY 10591)</span>**
+**<span style="font-size: 1.5em; text-align: center;">Center for Creative Arts and Technology @ The Hackley School (293 Benedict Ave, Tarrytown, NY 10591)</span>**
 
-**<span style="font-size: 1.5em; text-align: center;">Come join us for Hackley’s hackathon Hack², a collaboration between Hackley’s Girls Who Code and Computer Science clubs!</span>**
+**<span style="font-size: 1.5em; text-align: center;">Come join us for Hackley’s very first hackathon!</span>**
+
+**<span style="font-size: 1.5em; text-align: center;">There will be food, prizes, a speaker, workshops and more.</span>**
 
 
 [Sign-up](https://docs.google.com/forms/d/e/1FAIpQLSdyg5DSsI3jRFtsKTOrf9oOeZiQgirR172YxGWbL9tA4MWcDQ/viewform?usp=sf_link){: .btn .btn--success}
@@ -20,5 +22,5 @@ permalink: /
 
 **<span style="font-size: 1.5em; text-align: center;">About the Event</span>**
 <div class="text-box">
-Hack² is a hackathon that will take place on Saturday January 11, 2025 from 9:00 am - 5:00 pm at Hackley’s Center for Creative Arts and Technology. This event is open to all interested high school students, regardless of programming experience. Our mission is to encourage students to think about solutions to global issues, collaborate, be more involved in coding and have fun. There will be food, prizes, a speaker, workshops and more.
+Hack² is a collaboration between Hackley's Girls Who Code and Computer Science clubs. It is open to all interested high school students, regardless of programming experience. Our mission is to encourage students to think about solutions to global issues, collaborate, be more involved in coding and have fun. 
 </div>

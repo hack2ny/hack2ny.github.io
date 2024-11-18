@@ -2,7 +2,6 @@
 layout: archive
 ---
 
-{{ content }}
 
 <style>
   body {
@@ -45,12 +44,15 @@ layout: archive
     color: #ffffff; /* Text color for team member names */
     margin-top: 5px; /* Space above the names */
   }
+
+  
+
   .team-container.centered-row {
     grid-template-columns: repeat(3, 1fr); /* 3 columns for the second row */
     justify-content: center; /* Center the second row */
   }
   
-
+ 
   /* Media Queries for Mobile Devices */
   @media (max-width: 600px) {
     .team-container {
@@ -69,22 +71,15 @@ layout: archive
     .faq-section {
       font-size: 1.5em; /* Adjust font size for the FAQ section on smaller screens */
     }
+
+    
   }
-  
 </style>
 
+{{ content }}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
 
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% include documents-collection.html entries=posts type=entries_layout %}
-</div>
 
-{% include paginator.html %}
+
+

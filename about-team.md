@@ -22,16 +22,16 @@ permalink: /about-team/
     <div class="team-name">Lily Adams, '25</div>
   </div>
   <div class="team-member">
-    <img src="/assets/images/will_profile.jpg" alt="William Dupont, '25">
-    <div class="team-name">William Dupont, '25</div>
+    <img src="/assets/images/gabriel_profile.jpg" alt="Gabriel Fossner, '25">
+    <div class="team-name">Gabriel Fossner, '27</div>
   </div>
   <div class="team-member">
     <img src="/assets/images/rafa_profile.jpg" alt="Rafael Castro, '25">
     <div class="team-name">Rafael Castro, '25</div>
   </div>
   <div class="team-member">
-    <img src="/assets/images/gabriel_profile.jpg" alt="Gabriel Fossner, '27">
-    <div class="team-name">Gabriel Fossner, '27</div>
+    <img src="/assets/images/will_profile.jpg" alt="William Dupont, '25">
+    <div class="team-name">William Dupont, '25</div>
   </div>
 </div>
 
