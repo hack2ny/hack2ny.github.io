@@ -10,7 +10,7 @@ permalink: /about-team/
     <div class="team-name">Phoebe Dungca, '25</div>
   </div>
   <div class="team-member">
-    <img src="/assets/images/meredith_profile.jpg" alt="Meredith Lee, '25">
+    <img src="/assets/images/meredith_profile.jpeg" alt="Meredith Lee, '25">
     <div class="team-name">Meredith Lee, '25</div>
   </div>
   <div class="team-member">
