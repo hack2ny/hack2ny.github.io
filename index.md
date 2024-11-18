@@ -16,8 +16,9 @@ permalink: /
 
 **<span style="font-size: 1.5em; text-align: center;">There will be food, prizes, a speaker, workshops and more.</span>**
 <div style="text-align: center;">
-  [Sign-up](https://docs.google.com/forms/d/e/1FAIpQLSdyg5DSsI3jRFtsKTOrf9oOeZiQgirR172YxGWbL9tA4MWcDQ/viewform?usp=sf_link){: style="background-color: red; color: white; font-size: 40px; padding: 15px 30px; border-radius: 5px;text-decoration:none"}
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdyg5DSsI3jRFtsKTOrf9oOeZiQgirR172YxGWbL9tA4MWcDQ/viewform?usp=sf_link" style="background-color: red; color: white; font-size: 40px; padding: 15px 30px; border-radius: 5px; text-decoration: none; display: inline-block;">Sign-up</a>
 </div>
+
 
 **<span style="font-size: 1.5em; text-align: center;">About the Event</span>**
 <div class="text-box">
