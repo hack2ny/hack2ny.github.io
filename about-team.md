@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: Team Members
 permalink: /about-team/
 ---
