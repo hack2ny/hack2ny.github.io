@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title:
 permalink: /
 ---
 ![styled-image](/assets/images/hack2_logo.png "Hack² Logo"){: .align-center style="width: 80%;"}
