@@ -26,12 +26,12 @@ permalink: /about-team/
     <div class="team-name">Gabriel Fossner, '27</div>
   </div>
   
-   <!--
+
   <div class="team-member">
     <img src="/assets/images/rafa_profile.jpg" alt="Rafael Castro, '25">
     <div class="team-name">Rafael Castro, '25</div>
   </div>
-  -->
+
 
   
   <div class="team-member">
