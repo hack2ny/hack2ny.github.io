@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Home
+copyright: Hack^2
 email: hacksquared.ny@gmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
   Hack² is a hackathon that will take place on Saturday January 11, 2025 
@@ -46,7 +47,6 @@ footer:
     - label: "Contact us"
       icon: "fab fa-fw fa-envelope"
       url: "mailto:pdungca@students.hackleyschool.org"
-  copyright_text: "© 2024 Hack^2"
 
 
 
