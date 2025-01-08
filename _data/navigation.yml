@@ -1,4 +1,6 @@
 main:
+  - title: "Schedule"
+    url: /Schedule
   - title: "Team Members"
     url: /about-team
   - title: "FAQ"
