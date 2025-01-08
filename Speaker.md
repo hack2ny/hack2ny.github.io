@@ -3,7 +3,10 @@ layout: single
 title: Speaker
 permalink: /Speaker/
 ---
-
+<div class="team-container">
+  <div class="team-member">
+    <img src="/assets/images/lucasphoto.jpg" alt="Lucas Liebenwein">
+  </div>
 About Lucas Liebenwein:
 
 Currently, Lucas  is a Manager at Nvidia following the acquisition of OmniML, where he served as Chief Architect and Founding Engineer. At Nvidia, he is building a machine learning (ML) platform for algorithmic model optimization to enable efficient and seamless deployment of ML at scale.
