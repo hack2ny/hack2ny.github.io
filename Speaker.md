@@ -8,7 +8,7 @@ About Lucas Liebenwein:
 
 Currently, Lucas  is a Manager at Nvidia following the acquisition of OmniML, where he served as Chief Architect and Founding Engineer. At Nvidia, he is building a machine learning (ML) platform for algorithmic model optimization to enable efficient and seamless deployment of ML at scale.
 
-<img src="lucasphoto.jpg" alt="Lucas Liebenwein" 
+<img src="/assets/images/lucasphoto.jpg" alt="Lucas Liebenwein" 
             style="float: right; width: 150px; height: auto; margin: 0 0 10px 10px;">
             
 Prior to that, he was a Ph.D. researcher at MIT CSAIL, advised by Prof. Daniela Rus, where his research was focused on efficient deep learning algorithms and autonomous driving.
