@@ -12,6 +12,6 @@ Prior to that, he was a Ph.D. researcher at MIT CSAIL, advised by Prof. Daniela 
 
 Throughout his professional career, he has been passionate about making ML more easily accessible for individuals and organizations alike by bridging the gap from ML research to user-friendly and scalable AI tools and platforms.
 
-<img src="example.jpg" alt="Example Image" style="float: right; width: 150px; height: auto; margin: 0 0 10px 10px;">
+<img src="lucasphoto.jpg" alt="Lucas Liebenwein" style="float: right; width: 150px; height: auto; margin: 0 0 10px 10px;">
 
 
