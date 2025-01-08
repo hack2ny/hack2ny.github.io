@@ -1,4 +1,6 @@
 main:
+  - title: "Speaker" 
+    url: /Speaker
   - title: "Schedule"
     url: /Schedule
   - title: "Team Members"
